@@ -1,0 +1,9 @@
+* Binary Search is a lot faster than simple Search
+
+* O(log n) is faster the O(n), but gets a lot faster once the list f items you're searching through grows 
+
+* Algorithm speed isn't measured in seconds
+
+* Algorithm times are measured in terms of the growth of an Algorithm
+
+* Algorithm times are written in Big O notation 
