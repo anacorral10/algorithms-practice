@@ -20,4 +20,8 @@ check_voter("tom")
 check_voter("mike")
 check_voter("mike")
 
-
+# you can make a hash table by combining a hash function with an array
+# collisons ar bad you need a hash function that minimizes collisions
+# hash tables have really fast search insert and delete
+# hash tables are good for modeling relationships from one item to another item 
+# once your load factor is greater than 0.7 it's time to resize your hash table
